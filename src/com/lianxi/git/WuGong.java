@@ -6,6 +6,7 @@ public class WuGong {
 		System.out.println("独孤九剑");
 		System.out.println("独孤十剑");
 		System.out.println("独孤十一剑");
+		System.out.println("好剑");
 		
 	}
 
